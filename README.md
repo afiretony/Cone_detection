@@ -4,7 +4,7 @@
 Chenhao Yang
 
 ## Summary
-This repository contains an end-to-end deep learning method for traffic cone detection.
+This repository contains an end-to-end deep learning method for traffic cone detection, `fih`
 
 ## Abstract
 The development of detecting and position estimating of objects has became more and more prevailing in the field of robotics and autonomous driving. In this report, we developed a cone detection algorithm for the autonomous formula student using deep learning approaches. We created 3D point cloud data to simulate LiDAR scannings for supervised training. Our detection approach is to voxelize the point cloud and create pseudo images first, and then using 2D convolution layers and variational autoencoder model for feature extraction and generation of cone coordinate candidates. Finally, we used non-maximum suppression to get outputs and fine results.
