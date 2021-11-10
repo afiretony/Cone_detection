@@ -1,6 +1,6 @@
+# Cone Detection for Autonomous Formula Using Deep Learning Methods
 ![Technion_logo](./figures/Technion_logo.png)
 
-# Cone Detection for Autonomous Formula Using Deep Learning Methods
 Chenhao Yang
 
 ## Summary
